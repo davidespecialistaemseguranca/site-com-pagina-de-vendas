@@ -37,7 +37,7 @@ export function AuthorityAssetsSection() {
   // Sample logos - easily expandable to 15+
   const clientLogos = [
     { name: 'Empresa Fortune 500', alt: 'Fortune 500' },
-    { name: 'Banco Internacional', alt: 'Banco' },
+    { name: 'Construtora Odebrecht', alt: 'Construtora' },
     { name: 'Corporação de Tecnologia', alt: 'Tech' },
     { name: 'Grupo Industrial', alt: 'Industrial' },
     { name: 'Incorporadora Imobiliária', alt: 'Imobiliária' }
